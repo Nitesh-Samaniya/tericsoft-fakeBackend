@@ -1,3 +1,27 @@
 {
-    "employee": []
+    "employee": [
+        {
+            "name": "Nitin Samaniya",
+            "email": "nitinsamaniya97@gmail.com",
+            "phone": "870 071 2372",
+            "dob": "2023-04-09",
+            "gender": "male",
+            "hobbies": [
+              "Reading",
+              "Writing"
+            ],
+            "id": 1
+          },
+          {
+            "name": "Tushar Samaniya",
+            "email": "tusharsamaniya4956@gmail.com",
+            "phone": "8700712372",
+            "dob": "2023-04-10",
+            "gender": "male",
+            "hobbies": [
+              "Reading"
+            ],
+            "id": 2
+          }
+    ]
 }
